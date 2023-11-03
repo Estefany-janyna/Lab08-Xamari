@@ -9,7 +9,7 @@ namespace Laboratorio08
         public App()
         {
             InitializeComponent();
-
+            //
             MainPage = new BatteryDemo();
         }
 
