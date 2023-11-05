@@ -10,7 +10,7 @@ namespace Laboratorio08
         {
             InitializeComponent();
             //
-            MainPage = new BatteryDemo();
+            MainPage = new MainPage();
         }
 
         protected override void OnStart()
